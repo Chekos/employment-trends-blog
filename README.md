@@ -11,7 +11,7 @@ but approached differently as, [The Closing of the Jobs Gap: A Decade of
 Recession and 
 Recovery](www.hamiltonproject.org/papers/the_closing_of_the_jobs_gap_a_decade_of_recession_and_recovery)
 
-Assuming the demographical adjustment is a simple age-adjustment I go on to recreate the chart. The Notebook [Age Adjusted E-to-P Ratio by Educ.ipynb] (https://github.com/Chekos/employment-trends-blog/blob/master/notebooks/Age%20Adjusted%20E-to-P%20Ratio%20by%20Educ.ipynb) shows the process. 
+Assuming the demographical adjustment is a simple age-adjustment I go on to recreate the chart. The Notebook [Age Adjusted E-to-P Ratio by Educ.ipynb](https://github.com/Chekos/employment-trends-blog/blob/master/notebooks/Age%20Adjusted%20E-to-P%20Ratio%20by%20Educ.ipynb) shows the process. 
 
 Here are the resulting charts:
 
