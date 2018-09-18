@@ -1,3 +1,5 @@
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/Chekos/employment-trends-blog/master?filepath=notebooks%2FAge%20Adjusted%20E-to-P%20Ratio%20by%20Educ.ipynb)
+
 # Employment-to-population ratio (potential) blog post
 
 This repository contains the materials (minus the original CPS datafile) 
